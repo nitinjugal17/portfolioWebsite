@@ -111,8 +111,8 @@ export const skills = [
 
 export const experiences = [
     {
-        title: "Consultant",
-        company_name: "Chenoa Information Technologies",
+        title: "Web Development Consultantacy",
+        company_name: "Sekiz Information Technologies",
         icon: starbucks,
         iconBg: "#accbe1",
         date: "2023 - Present",
@@ -173,12 +173,12 @@ export const socialLinks = [
     {
         name: 'GitHub',
         iconUrl: github,
-        link: 'https://github.com/YourGitHubUsername',
+        link: 'https://github.com/soumyaghosh13',
     },
     {
         name: 'LinkedIn',
         iconUrl: linkedin,
-        link: 'https://www.linkedin.com/in/YourLinkedInUsername',
+        link: 'https://www.linkedin.com/in/soumya-ghosh13/',
     }
 ];
 
@@ -186,43 +186,43 @@ export const projects = [
     {
         iconUrl: pricewise,
         theme: 'btn-back-red',
-        name: 'Amazon Price Tracker',
-        description: 'Developed a web application that tracks and notifies users of price changes for products on Amazon, helping users find the best deals.',
-        link: 'https://github.com/adrianhajdin/pricewise',
+        name: 'Comment Box Expres',
+        description: 'Developed a web application to post comment anonymously.',
+        link: 'https://github.com/soumyaghosh13/Comment_Box_Express',
     },
     {
         iconUrl: threads,
         theme: 'btn-back-green',
-        name: 'Full Stack Threads Clone',
-        description: 'Created a full-stack replica of the popular discussion platform "Threads," enabling users to post and engage in threaded conversations.',
-        link: 'https://github.com/adrianhajdin/threads',
+        name: 'Book Catalog',
+        description: 'Created a book catalog for maintain a library.',
+        link: 'https://github.com/soumyaghosh13/bookCatalog',
     },
     {
         iconUrl: car,
         theme: 'btn-back-blue',
-        name: 'Car Finding App',
-        description: 'Designed and built a mobile app for finding and comparing cars on the market, streamlining the car-buying process.',
-        link: 'https://github.com/adrianhajdin/project_next13_car_showcase',
+        name: 'Unix tools',
+        description: 'Designed and built all unix tools in java as fun project.',
+        link: 'https://github.com/soumyaghosh13/unix-tools',
     },
     {
         iconUrl: snapgram,
         theme: 'btn-back-pink',
-        name: 'Full Stack Instagram Clone',
-        description: 'Built a complete clone of Instagram, allowing users to share photos and connect with friends in a familiar social media environment.',
-        link: 'https://github.com/adrianhajdin/social_media_app',
+        name: 'Solve any math expression',
+        description: 'Built a complete calculator for any math expression.',
+        link: 'https://github.com/soumyaghosh13/expression-evaluator',
     },
     {
         iconUrl: estate,
         theme: 'btn-back-black',
-        name: 'Real-Estate Application',
-        description: 'Developed a web application for real estate listings, facilitating property searches and connecting buyers with sellers.',
-        link: 'https://github.com/adrianhajdin/projects_realestate',
+        name: 'Cucumber Selenium Basics',
+        description: 'Developed a basic web automation framework with cucumber and selenium.',
+        link: 'https://github.com/soumyaghosh13/cucumberSeleniumBasics',
     },
     {
         iconUrl: summiz,
         theme: 'btn-back-yellow',
-        name: 'AI Summarizer Application',
-        description: 'App that leverages AI to automatically generate concise & informative summaries from lengthy text content, or blogs.',
-        link: 'https://github.com/adrianhajdin/project_ai_summarizer',
+        name: 'Portfolio Website',
+        description: 'Create a portfolio website that looks like a game using react and threejs.',
+        link: 'https://github.com/soumyaghosh13/portfolioWebsite',
     }
 ];
