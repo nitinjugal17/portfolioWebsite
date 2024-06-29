@@ -12,23 +12,23 @@ const About = () => {
   return (
     <section className='max-container'>
       <h1 className='head-text'>
-        Hello, I'm{" "}
+        Hello, Welcome to {" "}
         <span className='blue-gradient_text font-semibold drop-shadow'>
           {" "}
-          Soumya
+          SekiZ
         </span>{" "}
         👋
       </h1>
 
       <div className='mt-5 flex flex-col gap-3 text-slate-500'>
         <p>
-          Software Engineer based in India, specializing in technical
-          education through hands-on learning and building applications.
+        Discover unparalleled IT solutions with SekiZ. From cutting-edge web development and seamless hardware integration to robust security and test automation services, 
+        We empower your business with the technology it needs to thrive. Our expert consultants tailor solutions to meet your unique challenges, ensuring efficiency, security, and innovation at every step. Join the future of technology with SekiZ your partner in progress.
         </p>
       </div>
 
       <div className='py-10 flex flex-col'>
-        <h3 className='subhead-text'>My Skills</h3>
+        <h3 className='subhead-text'>Tools we use </h3>
 
         <div className='mt-16 flex flex-wrap gap-12'>
           {skills.map((skill) => (
@@ -47,10 +47,10 @@ const About = () => {
       </div>
 
       <div className='py-16'>
-        <h3 className='subhead-text'>Work Experience.</h3>
+        <h3 className='subhead-text'>Our Expertise.</h3>
         <div className='mt-5 flex flex-col gap-3 text-slate-500'>
           <p>
-            I've worked with all sorts of companies, leveling up my skills and
+            We've worked with all sorts of companies, leveling up our skills and
             teaming up with smart people. Here's the rundown:
           </p>
         </div>
